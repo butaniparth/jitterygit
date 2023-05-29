@@ -1,0 +1,89 @@
+@media only screen and (max-width:768px){
+    .fixed_header {
+        width: 100%;
+    }
+    .copoon_code{
+        width: 100% !important;
+    }
+    .congratulation_img{
+        width: 100% !important; 
+    }
+    .forms_section_layouts{
+        display: block;
+    }
+    .custome_block{
+        display: block !important;
+    }
+    .forms_img_preview{
+        width: 100% !important
+    }
+    .forms_layout{
+        width: 100% !important
+    }
+    .custome_polaris_block{
+        display: block !important
+    }
+}
+@media only screen and (max-width:767px) and (min-width:320px){
+    .dashboard_btn{
+        display: flex
+    }
+    .custome_logo{
+        width: 70px !important
+    }
+    .heading_text{
+        margin-bottom: 10px
+    }
+    .space_setting{
+        margin-right:5px;
+    }
+    .brands_block_preview{
+        width: 100%;
+        margin: 10px 3px;
+    }
+     .custome_polaris_block{
+        display: block !important
+    }
+
+    .forms_layout{
+        width: 100% !important
+    }
+    .tabs_click_events{
+        width: 100%;
+    }
+    .forms_img_preview{
+        width: 100%;
+    }
+    .forms_layout{
+        width: 100%;
+    }
+    .forms_section_layouts{
+        display: block;
+    }
+    .forms_img_preview_option{
+        width: 100%;
+    }
+    .option_preview_content_block{
+        width: 100%;
+    }
+    .first_heading_select h3 {
+        font-size: 16px;
+    }
+    .heading_text h2 {
+        font-size: 19px;
+    }
+    .values{
+        margin: 20px 0px 0px;
+        padding: 20px 0px 0px;
+    }
+    .market_place_store_block{
+        width:100%;
+        padding: 10px;
+    }
+    .brands_block_preview{
+        padding: 10px;
+    }
+    .market_place_store_block ul li{
+        width: 100%
+    }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Icons" transform="translate(3 2)">
+    <g id="Rounded" transform="translate(-205 -1750)">
+      <g id="Device" transform="translate(100 1650)">
+        <g id="_-Round-_-Device-_-widgets" data-name="-Round-/-Device-/-widgets" transform="translate(102 98)">
+          <g id="Group_1286" data-name="Group 1286">
+            <path id="Path" d="M0,0H24V24H0Z" fill="none"/>
+            <path id="_Icon-Color" data-name="🔹Icon-Color" d="M13,14v6a1,1,0,0,0,1,1h6a1,1,0,0,0,1-1V14a1,1,0,0,0-1-1H14A1,1,0,0,0,13,14ZM4,21h6a1,1,0,0,0,1-1V14a1,1,0,0,0-1-1H4a1,1,0,0,0-1,1v6A1,1,0,0,0,4,21ZM3,4v6a1,1,0,0,0,1,1h6a1,1,0,0,0,1-1V4a1,1,0,0,0-1-1H4A1,1,0,0,0,3,4ZM15.95,2.4,11.7,6.64a1,1,0,0,0,0,1.41l4.25,4.25a1,1,0,0,0,1.41,0l4.25-4.25a1,1,0,0,0,0-1.41L17.37,2.4A1.008,1.008,0,0,0,15.95,2.4Z" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
